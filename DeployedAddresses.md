@@ -2,7 +2,7 @@
 
 ## Mainnet:
 
-| Assets                                  | Contracts                                      |                                                                                 |
+| Assets                                   | Contracts                                      |                                                                                 |
 |:--------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------- |
 | msd controller implementation           | 0x5dCDafD2C16B9Ea8991af7Bf4ea0210804F95338     | [link](https://etherscan.io/address/0x5dCDafD2C16B9Ea8991af7Bf4ea0210804F95338) |
 | msd controller                          | 0x45677a101D70E9910C418D9426bC6c5874CE2Fd7     | [link](https://etherscan.io/address/0x45677a101D70E9910C418D9426bC6c5874CE2Fd7) |
